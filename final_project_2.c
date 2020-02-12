@@ -1,5 +1,5 @@
 /*
-Submitted by Alekhya Lingireddy
+Submitted by Alekhya
 Online part of the Elevator Scheduling 
 
 PLEASE READ:
